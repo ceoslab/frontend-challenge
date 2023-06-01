@@ -6,7 +6,9 @@
 
 ### Objetivo
 
-- Criar uma aplicação que realiza o gerenciamento de "tags" de status, que consiste em digitar o nome desejado para um status e permita o usuário selecionar uma cor para o mesmo, deverá também realizar a exibiçao do resultado conforme as modificações. 
+- Uma aplicação que realiza a criação de status de um sistema, que consiste em digitar o nome desejado para um status e permita o usuário selecionar uma cor para o mesmo, deverá também realizar a exibiçao do resultado conforme as modificações. 
+
+- Pode ser realizado só a criação e após a criação exibir um aviso ao usuário que o status foi criado. (podem ser implementadas bibliotecas de toast para fazer isso)
 
 ### Instruções
 
@@ -14,7 +16,7 @@ Usar as seguintes tecnologias 👇
 - **Tecnologias:**
   - React.js;
   - Typescript;
-  - Styled-components;   
+  - Styled-components;
 
 - **User Interface:** Você deve [usar esse link](https://www.figma.com/file/Fbm55z8tw8DfRGIzT3GfnI/Teste?type=design&node-id=0%3A1&t=5IFL4zu8o8nRRAvq-1) como referência de UI durante o desenvolvimento.
 
@@ -22,6 +24,7 @@ Usar as seguintes tecnologias 👇
 
 - Vamos avaliar a qualidade do código, legibilidade e a quantidade de funcionalidades.
 - Você é livre para tomar as decisões técnicas com as quais você se sente mais confortável.
+- A proatividade e criatividade usada durante o desafio poderá ser um diferencial. 
 - Inclua um arquivo *README* que possua:
   - Desafios/problemas com os quais você se deparou durante a execução do projeto.
   - Todas as intruções necessárias para que qualquer pessoa consiga rodar sua aplicação sem maiores problemas.
