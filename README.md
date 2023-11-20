@@ -37,4 +37,6 @@ Usar as seguintes tecnologias 👇
 - O material de UI/UX que fornecemos deve servir como uma referência, você não precisa necessariamente segui-lo à risca. No entanto, quanto mais próximo, melhor =]
 - Use boas práticas de programação.
 
-#### Boa sorte! 🚀
+<p align="center">
+Boa sorte! 🚀
+</p>
