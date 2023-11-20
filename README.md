@@ -1,6 +1,8 @@
 <p align="center">
 <img alt="Céos" src="https://ceoslab.com.br/wp-content/uploads/2022/05/logo-branco.svg" height="50px" />
-</p>  
+</p> 
+
+---
 
 ### Objetivo
 
