@@ -2,9 +2,6 @@
 <img alt="Céos" src="https://ceoslab.com.br/wp-content/uploads/2022/05/logo-branco.svg" height="50px" />
 </p>  
 
-
-## Front-end Challenge
-
 ### Objetivo
 
 - Uma aplicação que realiza a criação de status de um sistema, que consiste em digitar o nome desejado para um status e permita o usuário selecionar uma cor para o mesmo, deverá também realizar a exibiçao do resultado conforme as modificações. 
